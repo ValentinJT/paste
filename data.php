@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "nsad04";
-$password = "E24h7U5kA9HJhq5VM98pm7p5zmJpf8AK";
-$dbname = "nsapool";
+$username = "backend";
+$password = "Bit8Q6a6G";
+$dbname = "nsa501";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
